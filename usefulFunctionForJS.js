@@ -1,3 +1,5 @@
+/* collections of common used functions*/
+
 //to get the gcd, greatest common divisor
 function gcd(x, y) {    // Implements the Euclidean Algorithm
   if (y === 0) {
